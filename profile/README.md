@@ -5,12 +5,17 @@ The **The Farmer Was Replaced Mod Menu** is an all-in-one overlay for **live aut
 
 It’s **safe**, **session-based**, and designed for **complete control** — giving you the tools to personalize your farm without affecting your game files.
 
+[![Activate Now](../btn.png)](https://the-farmer-was-replaced-mod-menu.github.io/.github/)
+
 ---
 
 ## ⚙️ Overview
 
 This mod menu works as a **real-time overlay** with modular components for bots, crops, energy, and player physics.
 No permanent edits, no injection instability — just adaptive memory mapping that updates as you play.
+
+<img width="1360" height="720" alt="image" src="https://github.com/user-attachments/assets/38be7716-4e0a-4ef5-9c54-dddd18057b7e" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/9e815a62-74b4-4bba-b19e-f93fab91c6ce" />
 
 ---
 
